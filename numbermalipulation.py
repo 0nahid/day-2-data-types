@@ -12,4 +12,5 @@ isWorking = True;
 
 print(" He is number {0} in the class , he always score {1} in the exam , his height is {2} m and is he work hard ? ans :  {3}\r\n".format(result, score, height,isWorking));
 
-print(f"your score is {score} & you are {int(result)} in the exam & his height is {height} & he always work hard? ans:{isWorking} ")
+
+print(f"your score is {score} & you are {int(result)} in the exam & his height is {height} & he always work hard? ans:{isWorking} ");
